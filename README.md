@@ -59,14 +59,14 @@ In India's foundational school ecosystem, **Cluster Resource Persons (CRPs)** an
 According to research from the **NITI Aayog (2026)** and the **World Bank Coach Initiative**, mentoring quality—not mere visit frequency—is the determining factor in teacher instructional shifts.
 
 ```
-┌───────────────────────────────┐        ┌───────────────────────────────┐
-│     The Existing Reality      │        │     The Consequence           │
-├───────────────────────────────┤        ├───────────────────────────────┤
-│ • 1 Mentor : 30–40+ Schools   │  ───►  │ • High compliance inspection  │
-│ • Unstructured mental notes   │        │ • Generic, judgmental feedback│
-│ • Zero prep/rehearsal time    │        │ • Overwhelmed teachers        │
-│ • Checklists without pedagogy │        │ • No measurable practice change│
-└───────────────────────────────┘        └───────────────────────────────┘
+┌───────────────────────────────────┐        ┌───────────────────────────────────┐
+│       The Existing Reality        │        │          The Consequence          │
+├───────────────────────────────────┤        ├───────────────────────────────────┤
+│ • 1 Mentor : 30–40+ Schools       │  ───►  │ • High compliance inspection      │
+│ • Unstructured mental notes       │        │ • Generic, judgmental feedback    │
+│ • Zero prep/rehearsal time        │        │ • Overwhelmed teachers            │
+│ • Checklists without pedagogy     │        │ • No measurable practice change   │
+└───────────────────────────────────┘        └───────────────────────────────────┘
 ```
 
 1. **The Visit-to-Change Chasm**: Mentors record notes, but without synthesis tools, feedback defaults to subjective evaluation (*"Teacher should maintain discipline"* rather than specific instructional adjustments).
