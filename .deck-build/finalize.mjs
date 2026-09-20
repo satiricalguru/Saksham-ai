@@ -1,0 +1,11 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import {Presentation,PresentationFile} from '@oai/artifact-tool';
+import {finalizePresentation} from '/Users/jatinpandey/.codex/plugins/cache/openai-primary-runtime/presentations/26.909.61513/skills/presentations/container_tools/artifact_tool_utils.mjs';
+const root='/Users/jatinpandey/Antigravity/Sprint';
+const dir=path.join(root,'.deck-build');
+const skill='/Users/jatinpandey/.codex/plugins/cache/openai-primary-runtime/presentations/26.909.61513/skills/presentations';
+const p=Presentation.create({slideSize:{width:1280,height:720}});
+const font='Avenir Next';
+await finalizePresentation({workspaceDir:root,candidatePath:path.join(dir,'candidate.pptx'),finalPath:path.join(root,'output/presentation/Saksham-AI-Ideate-Proposal.pptx'),pythonExecutable:'/Users/jatinpandey/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3',integrityValidatorPath:path.join(skill,'container_tools/inspect_presentation_package_integrity.py'),layoutValidatorPath:path.join(skill,'container_tools/inspect_presentation_layout_geometry.py'),layoutArgs:['--expected-slide-size-emu','12192000,6858000','--validate-bullet-geometry','--validate-heading-fit','--require-native-table-slide','5','--require-native-table-slide','7','--require-native-table-slide','10'],explicitTotalSlideCount:10,requiredNativeTableOwnerSlides:[5,7,10],fontPolicy:{basis:'design',families:[font]},verifyArtifactToolImport:true,receiptPath:path.join(dir,'validation.json')});
+console.log('Finalized');

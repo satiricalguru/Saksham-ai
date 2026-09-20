@@ -1,0 +1,6 @@
+{"kind":"deck","id":"pr/gew3o2","name":"Deck"}
+{"kind":"layout","layoutId":"f25ee6e0-594f-4c6f-9ae4-3bf687055cf9","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"a50addd0-8d0a-413e-8075-a08971f4c080","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/ghx0mg","slide":1,"title":"Saksham AI","textShapes":1}
+{"kind":"textbox","id":"sh/7uh8ziho","slide":1,"text":"Saksham AI","textPreview":"Saksham AI","textChars":10,"textLines":1,"bbox":[60,80,900,150]}
+{"kind":"notes","id":"nt/ghx0mg","slide":1,"text":""}

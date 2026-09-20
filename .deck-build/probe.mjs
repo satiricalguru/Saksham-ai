@@ -1,0 +1,4 @@
+import {Presentation,PresentationFile} from '@oai/artifact-tool';
+const p=Presentation.create({slideSize:{width:1280,height:720}});const s=p.slides.add();s.background.fill='#F7F5EF';const t=s.shapes.add({geometry:'textbox',position:{left:60,top:80,width:900,height:150},fill:'none',line:{fill:'none',width:0}});t.text='Saksham AI';t.text.style={typeface:'Avenir Next',fontSize:76,color:'#153e35',bold:true,insets:{left:0,right:0,top:0,bottom:0},autoFit:'none'};
+await(await PresentationFile.exportPptx(p)).save('/Users/jatinpandey/Antigravity/Sprint/.deck-build/probe.pptx');const b=await p.export({slide:s,format:'png',scale:1});await(await import('node:fs/promises')).writeFile('/Users/jatinpandey/Antigravity/Sprint/.deck-build/probe.png',new Uint8Array(await b.arrayBuffer()));
+console.log('OK');
