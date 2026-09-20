@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/app-logo.png" alt="ShikshaNext - Saksham AI Logo" width="520" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/app-logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/app-logo.png">
+    <img src="./assets/app-logo.png" alt="ShikshaNext - Saksham AI Logo" width="520" />
+  </picture>
 </p>
 
 <h1 align="center">Saksham AI (सक्षम AI)</h1>
