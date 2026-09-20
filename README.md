@@ -314,14 +314,24 @@ Saksham AI’s coaching methodology and framework are directly aligned with prem
 
 ## 👥 Contributors
 
-This project was ideated, researched, and built for the **AI for Foundational Learning Hackathon 2026**.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/team-sprint-logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/team-sprint-logo.png">
+    <img src="./assets/team-sprint-logo.png" alt="Team Sprint Logo" height="85" />
+  </picture>
+</p>
+
+<p align="center">
+  Developed with passion by <b>Team Sprint</b> for the <b>AI for Foundational Learning Hackathon 2026</b>.
+</p>
 
 <div align="center">
   <table border="0">
     <tr>
       <td align="center" width="220">
         <a href="https://github.com/satiricalguru">
-          <img src="https://github.com/satiricalguru.png" width="110" height="110" style="border-radius:50%;" alt="Jatin Pandey" />
+          <img src="./assets/avatar-satiricalguru.png" width="110" height="110" alt="Jatin Pandey" />
           <br>
           <sub><b>Jatin Pandey</b></sub>
         </a>
@@ -332,7 +342,7 @@ This project was ideated, researched, and built for the **AI for Foundational Le
       </td>
       <td align="center" width="220">
         <a href="https://github.com/Mxhi-04">
-          <img src="https://avatars.githubusercontent.com/u/249584456?v=4" width="110" height="110" style="border-radius:50%;" alt="Mahi Patni" />
+          <img src="./assets/avatar-mxhi.png" width="110" height="110" alt="Mahi Patni" />
           <br>
           <sub><b>Mahi Patni</b></sub>
         </a>
