@@ -359,13 +359,19 @@ This project was ideated, researched, and built for the **AI for Foundational Le
 
 <p align="center">
   <a href="https://hack2skill.com/event/aiforfoundationallearning/" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/hackathon-banner.webp" alt="AI for Foundational Learning Hackathon" width="720" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/hackathon-logo-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/hackathon-logo.png">
+      <img src="./assets/hackathon-logo.png" alt="AI for Foundational Learning Hackathon" height="130" align="middle" />
+    </picture>
   </a>
-</p>
-
-<p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://hack2skill.com/event/aiforfoundationallearning/" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/hack2skill-logo.webp" alt="Powered by Hack2skill" width="200" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/hack2skill-logo-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/hack2skill-logo.png">
+      <img src="./assets/hack2skill-logo.png" alt="Powered by Hack2skill" height="70" align="middle" />
+    </picture>
   </a>
 </p>
 
